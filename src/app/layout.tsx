@@ -10,7 +10,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "E-Commerce Store",
+  title: "Khaliha 3ala Allah",
   description: "Your one-stop shop for all your needs",
 };
 
